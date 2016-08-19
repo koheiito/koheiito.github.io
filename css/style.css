@@ -1,0 +1,7 @@
+html, body { height: 100%; }
+body { font-family: 'Arial', sans-serif; letter-spacing: .15ex; line-height: 1.75; font-size: 100%; -webkit-font-smoothing: antialiased; }
+
+h1 { font-size: 1.25rem }
+h2 { font-size: 1.15rem }
+h3 { font-size: 1.05rem }
+h4 { font-size: 1rem }
