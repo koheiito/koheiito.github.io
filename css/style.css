@@ -1,5 +1,5 @@
-html, body { height: 100%; padding: 0 35px;}
-body { font-family: 'Arial', sans-serif; letter-spacing: .15ex; line-height: 1.75; font-weight: 400; font-size: 100%; -webkit-font-smoothing: antialiased; }
+html, body { height: 100%; }
+body { font-family: 'Arial', sans-serif; letter-spacing: .15ex; line-height: 1.75; font-weight: 400; font-size: 100%; -webkit-font-smoothing: antialiased; padding: 0 35px;}
 
 header { padding-top: 20px; }
 
