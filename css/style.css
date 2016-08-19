@@ -15,4 +15,4 @@ h4 { font-size: 1rem }
 
 a { color: #000; text-decoration: none }
 a:focus,
-a:hover { color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ease-out; -ms-transition: .5s ease-out; -o-transition: .5s ease-out; transition: .5s ease-out }
+a:hover { background-color: black; color: #fff; -webkit-transition: .5s ease-out; -moz-transition: .5s ease-out; -ms-transition: .5s ease-out; -o-transition: .5s ease-out; transition: .5s ease-out }
